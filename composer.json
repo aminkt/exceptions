@@ -22,7 +22,7 @@
   },
   "autoload": {
     "psr-4": {
-      "aminkt\\exceptions\\yii2\\": "src"
+      "aminkt\\exceptions\\": "src"
     }
   }
 }

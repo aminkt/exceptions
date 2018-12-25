@@ -1,6 +1,6 @@
 <?php
 
-namespace aminkt\exceptions\yii2;
+namespace aminkt\exceptions;
 
 
 use yii\web\HttpException;
