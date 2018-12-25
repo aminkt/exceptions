@@ -1,6 +1,6 @@
 {
-  "name": "aminkt/yii2-custom-exceptions",
-  "description": "Yii2 custom exception for bug handling",
+  "name": "aminkt/exceptions",
+  "description": "Custom exception for bug handling",
   "keywords": [
     "yii",
     "exception",
