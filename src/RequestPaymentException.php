@@ -3,11 +3,11 @@
 namespace aminkt\exceptions;
 
 /**
- * Class VerifyPaymentException
+ * Class RequestPaymentException
  * @author Amin Keshavarz <ak_1596@yahoo.com>
  * @package aminkt\payment\exceptions
  */
-class VerifyPaymentException extends PaymentException
+class RequestPaymentException extends PaymentException
 {
 
 }
